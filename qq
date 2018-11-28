@@ -1,0 +1,69 @@
+[33mcommit 81577546f4b229ee4fbbb06688fb429ae5be46eb[m[33m ([m[1;36mHEAD -> [m[1;32mnew_branch[m[33m)[m
+Author: tomita <takehito.tomita@embl.de>
+Date:   Wed Nov 28 16:37:26 2018 +0000
+
+    fixed travis config
+
+[33mcommit b9f47065069620a26fe682935e9ebdba75b1fa96[m
+Merge: 2402eca b51e013
+Author: tomita <takehito.tomita@embl.de>
+Date:   Wed Nov 28 16:33:38 2018 +0000
+
+    Merge branch 'master' of https://github.com/tomitatakehito/horsing-around into new_branch
+
+[33mcommit 2402eca9f24953f03a1a3f4e8fc745df584a6bc0[m
+Author: tomita <takehito.tomita@embl.de>
+Date:   Wed Nov 28 16:31:50 2018 +0000
+
+    configuring travis
+
+[33mcommit b51e013eb9d3d1c2a49d1f1be1f01d3a914603d3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: tomitatakehito <32863854+tomitatakehito@users.noreply.github.com>
+Date:   Wed Nov 28 16:23:02 2018 +0000
+
+    added build status badge
+
+[33mcommit 231bbd93d0e71e981996b7b4c0bf6664a796a340[m
+Author: tomita <takehito.tomita@embl.de>
+Date:   Wed Nov 28 16:09:55 2018 +0000
+
+    added files for Markdown generation
+
+[33mcommit fd97e934958605286ff4a36e0d2a0f7c00c1c389[m
+Merge: 5560982 d606787
+Author: tomitatakehito <32863854+tomitatakehito@users.noreply.github.com>
+Date:   Wed Nov 28 15:58:28 2018 +0000
+
+    Merge pull request #1 from tomitatakehito/cool_branch
+    
+    just message
+
+[33mcommit d606787ea6300df912bc0154c5cdd5f7ac38bd40[m
+Author: training <training@EIPPBioC2VM-21.courses.ebi.ac.uk>
+Date:   Wed Nov 28 15:32:05 2018 +0000
+
+    message
+
+[33mcommit 5560982d89088cd6b4cac36e5e7706d0f421b830[m[33m ([m[1;32mmaster[m[33m)[m
+Author: tomita <takehito.tomita@embl.de>
+Date:   Wed Nov 28 14:58:27 2018 +0000
+
+    added infor about making links in Markdown
+
+[33mcommit 1f39392d4897726ccdd877ea603dde043e046c07[m
+Author: tomitatakehito <32863854+tomitatakehito@users.noreply.github.com>
+Date:   Wed Nov 28 14:46:26 2018 +0000
+
+    started describing some Markdown
+
+[33mcommit 723f353211382dcd02dba60e722ffeb6adea57b7[m
+Author: tomitatakehito <32863854+tomitatakehito@users.noreply.github.com>
+Date:   Wed Nov 28 14:45:11 2018 +0000
+
+    Update README.md
+
+[33mcommit 3034cb32a62942e6f12d9b658de749f08b889356[m
+Author: training <training@EIPPBioC2VM-22.courses.ebi.ac.uk>
+Date:   Wed Nov 28 14:18:54 2018 +0000
+
+    added Readme
